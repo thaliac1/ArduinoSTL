@@ -19,7 +19,7 @@
 
 #include "new"
 
-const std::nothrow_t std::nothrow = { };
+//const std::nothrow_t std::nothrow = { };
 
 //Name selected to be compatable with g++ code
 std::new_handler __new_handler;
